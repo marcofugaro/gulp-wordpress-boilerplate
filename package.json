@@ -1,0 +1,37 @@
+{
+  "name": "wordpress-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "A Wordpress theme boilerplate with gulp.js, sass and other plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "gulp",
+    "sass",
+    "scss",
+    "boilerplate"
+  ],
+  "author": "Marco Fugaro <marco.fugaro@gmail.com> (http://marcofugaro.it/)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect-php": "0.0.5",
+    "gulp-gzip": "^1.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-modernizr": "0.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "imagemin-pngquant": "^4.2.0",
+    "jshint-stylish": "^2.0.1",
+    "run-sequence": "^1.1.2"
+  }
+}
